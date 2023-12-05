@@ -3,7 +3,7 @@
 Did you encounter while teaching MTEC-111?
 
 IF SO:
-We're sorry to hear that!
+We're sorry to hear that! Please submit an "Issue" ticket so that we can look into it for you!
 ### 1) Please See the "Issues" Button above (towards the upper left, with a bullseye icon to its left).
 
 ### 2) In the "Issues" window, please click the square, green "New Issue" button towards the middle right.
