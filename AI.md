@@ -48,3 +48,6 @@
 - [Bias in AI](https://www.nytimes.com/2021/03/15/technology/artificial-intelligence-google-bias.html)
 - [My Favorite Deep Fake](https://moondisaster.org/film)
 - ["Your" Favorite Deep Fake](https://www.youtube.com/watch?v=VWrhRBb-1Ig)
+
+## Berklee AI Policy
+'Policies around the use and incorporation of artificial intelligence (AI) will vary, and students should refer to syllabi and/or their course instructors for policies specific to their class or to specific assignments. In the absence of a policy or direction from the instructor specifically permitting the use of AI, using AI to substantially complete coursework—either directly or with modification—and presenting it as original work constitutes a violation of academic integrity and will be treated analogously as receiving help from another person. Students with questions about the use of AI or academic integrity should check with their instructor before submitting work.'
