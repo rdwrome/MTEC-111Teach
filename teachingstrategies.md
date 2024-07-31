@@ -1,14 +1,15 @@
-#[Scientifically-Proven Teaching Strategies](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008090)
-- trying to build confidence to support future learning
-- learners can't self-assess, self-perceived ability
-  - "imposter"
-  - "dunning-kreuger"
-- teacher is NEVER starting from scratch! your job is to fit information into the learner's existing mental model, about their conception of what they're learning about.
-- expert awareness gap! you, the teacher, are gonna be great at this regardless of the depth of your background!
-- never speak ill of other tools
-- formative assessment: a moment of reflection to focus attention and avoid cognitive overload, helps place in long-term memory
+# [Scientifically-Proven Teaching Strategies](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008090)
+- Teachers are trying to build confidence to support future learning
+- Learners can't self-assess, don't have correct self-perceived ability
+  - ["imposter"](https://www.webmd.com/balance/what-is-imposter-syndrome)
+  - ["dunning-kreuger"](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+- Teacher is NEVER starting from scratch! Teacher's job is to fit information into the learner's existing mental model, about their *pre*conception of what the learner is learning about.
+- [Expert awareness gap](https://carpentries.github.io/instructor-training/04-expertise.html#:~:text=Experts%20face%20challenges%20when%20teaching,overcome%20our%20expert%20awareness%20gaps.)
+- Never speak ill of other tools
+- Formative assessment: a moment of reflection to focus attention and avoid cognitive overload, helps place in long-term memory
 - ONLY 5-7 concepts before formative assessment! (maximum 15 min)
-- examples of formative assessment:
+- Examples of formative assessment:
   - 'what questions do you have?'
   - faded in questions (basically fill-in-the-blank)
-- group work whenever possible! (also helps with long-term memory)
+  - 'has everyone completed this task with me?'
+- Group work whenever possible! (also helps with long-term memory)
