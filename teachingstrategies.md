@@ -1,0 +1,14 @@
+#[Scientifically-Proven Teaching Strategies](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008090)
+- trying to build confidence to support future learning
+- learners can't self-assess, self-perceived ability
+  - "imposter"
+  - "dunning-kreuger"
+- teacher is NEVER starting from scratch! your job is to fit information into the learner's existing mental model, about their conception of what they're learning about.
+- expert awareness gap! you, the teacher, are gonna be great at this regardless of the depth of your background!
+- never speak ill of other tools
+- formative assessment: a moment of reflection to focus attention and avoid cognitive overload, helps place in long-term memory
+- ONLY 5-7 concepts before formative assessment! (maximum 15 min)
+- examples of formative assessment:
+  - 'what questions do you have?'
+  - faded in questions (basically fill-in-the-blank)
+- group work whenever possible! (also helps with long-term memory)
